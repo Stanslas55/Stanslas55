@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A French student with a passion for data science and artificial intelligence</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanslas55&label=Profile%20views&color=0e75b6&style=flat" alt="stanslas55" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanslas55" alt="stanslas55" /></a> </p>
+/></a> </p>
 
 - 🔭 I’m currently working on **a Ray tracing project**
 
