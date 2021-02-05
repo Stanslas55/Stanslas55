@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A French student with a passion for data science and artificial intelligence</h3>
-/></a> </p>
 
 - 🔭 I’m currently working on **a Ray tracing project**
 
