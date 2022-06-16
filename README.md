@@ -3,7 +3,6 @@
 
 - ✨ My dream is to contribute to the medical field and make the life of doctors easier thanks to artificial intelligence and image processing
 
-- 🔥 I’m currently working on **a Ray tracing project**
 
 - 🚀 I’m currently learning **Tensorflow and OpenCV**
 
@@ -11,7 +10,7 @@
 
 - 💬 Ask me about **C, C++, Python**
 
-- 📫 How to reach me **cisternas@et.esiea.fr**
+- 📫 How to reach me **nicolas.cisternas28@gmail.com**
 
 - 🤡 **I like wrestling but can't practice because of COVID.**
 
