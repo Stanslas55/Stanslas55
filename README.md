@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nicolas.cisternas28@gmail.com**
 
-- 🤡 **I like wrestling but can't practice because of COVID.**
+- 🤡 **I like wrestling but can't practice because I'm injured.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
